@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>1.jpeg</string>
+		<key>name</key>
+		<string>我帅吗</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>2.jpeg</string>
+		<key>name</key>
+		<string>我酷吗</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>3.jpeg</string>
+		<key>name</key>
+		<string>我囧吗</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>4.jpeg</string>
+		<key>name</key>
+		<string>蜡笔小新的小JJ</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>5.jpeg</string>
+		<key>name</key>
+		<string>卖萌的小新</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>6.jpeg</string>
+		<key>name</key>
+		<string>小猫真逗</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>7.jpeg</string>
+		<key>name</key>
+		<string>路飞很强</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>8.jpeg</string>
+		<key>name</key>
+		<string>Angelababy也很美</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>9.jpeg</string>
+		<key>name</key>
+		<string>美女很美哦</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>10.jpeg</string>
+		<key>name</key>
+		<string>美女很养眼</string>
+	</dict>
+</array>
+</plist>

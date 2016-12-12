@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  NavigationControllerPractice
+//
+//  Created by BiaoGe on 2016/11/26.
+//  Copyright © 2016年 BiaoGe. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import <objc/runtime.h>
+#import "UIView+Extension.h"
+#import "UINavigationBar+BBAlphaBar.h"
+
+#import "UIColor+Tools.h"
+#define ScreenW [UIScreen mainScreen].bounds.size.width
+#define ScreenH [UIScreen mainScreen].bounds.size.height
+#define BBHeaderImageH 200
+// 生成一个字符串
+#define NSString(...) [NSString stringWithFormat:__VA_ARGS__]
+#define BBMaxSections 3
+#define BBCellIdentifier @"Cell"
+
+#endif /* PrefixHeader_pch */
